@@ -1,0 +1,16 @@
+#c1{
+    border: 10px solid rgba(63, 63, 63, 0.558);
+    margin-left: 300px;
+    margin-top: 10px;
+
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.container{
+    margin-top: 50px;
+}
+
